@@ -3,12 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dcmcand.github.io/about/</loc>
+    <lastmod>2018-06-19T15:55:10-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dcmcand.github.io/page/about/</loc>
     <lastmod>2018-06-19T15:55:10-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dcmcand.github.io/tutorial/onlinesecuritybasics/</loc>
+    <loc>https://dcmcand.github.io/class/onlinesecuritybasics/</loc>
+    <lastmod>2018-06-15T16:20:50-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dcmcand.github.io/</loc>
+    <lastmod>2018-06-19T15:55:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dcmcand.github.io/class/</loc>
     <lastmod>2018-06-15T16:20:50-04:00</lastmod>
   </url>
   
@@ -17,18 +32,7 @@
   </url>
   
   <url>
-    <loc>https://dcmcand.github.io/tutorial/</loc>
-    <lastmod>2018-06-15T16:20:50-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dcmcand.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dcmcand.github.io/</loc>
-    <lastmod>2018-06-19T15:55:10-04:00</lastmod>
     <priority>0</priority>
   </url>
   
