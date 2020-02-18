@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chuck McAndrew</title>
     <link>https://chuckmcandrew.com/class/</link>
     <description>Recent content on Chuck McAndrew</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>chuck.mcandrew@leblibrary.com (Chuck McAndrew)</managingEditor>
-    <webMaster>chuck.mcandrew@leblibrary.com (Chuck McAndrew)</webMaster>
+    <managingEditor>chuck@chuckmcandrew.com (Chuck McAndrew)</managingEditor>
+    <webMaster>chuck@chuckmcandrew.com (Chuck McAndrew)</webMaster>
     <lastBuildDate>Fri, 15 Jun 2018 16:20:50 -0400</lastBuildDate>
     
 	<atom:link href="https://chuckmcandrew.com/class/index.xml" rel="self" type="application/rss+xml" />
@@ -16,7 +16,7 @@
       <title>Online Security Basics</title>
       <link>https://chuckmcandrew.com/class/onlinesecuritybasics/</link>
       <pubDate>Fri, 15 Jun 2018 16:20:50 -0400</pubDate>
-      <author>chuck.mcandrew@leblibrary.com (Chuck McAndrew)</author>
+      <author>chuck@chuckmcandrew.com (Chuck McAndrew)</author>
       <guid>https://chuckmcandrew.com/class/onlinesecuritybasics/</guid>
       <description>This class is designed to teach 10 ways to improve your online security. These should all be immediately implementable by the average person.
 Class Resources
