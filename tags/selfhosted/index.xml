@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>chuck@chuckmcandrew.com (Chuck McAndrew)</managingEditor>
     <webMaster>chuck@chuckmcandrew.com (Chuck McAndrew)</webMaster>
-    <lastBuildDate>Mon, 27 Jul 2020 09:42:57 -0400</lastBuildDate>
-    
-	<atom:link href="https://chuckmcandrew.com/tags/selfhosted/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 27 Jul 2020 09:42:57 -0400</lastBuildDate><atom:link href="https://chuckmcandrew.com/tags/selfhosted/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Raspberry Pi 4 Home Server</title>
       <link>https://chuckmcandrew.com/post/2020/07/27/raspberry-pi-4-home-server/</link>

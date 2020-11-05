@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>chuck@chuckmcandrew.com (Chuck McAndrew)</managingEditor>
     <webMaster>chuck@chuckmcandrew.com (Chuck McAndrew)</webMaster>
-    <lastBuildDate>Mon, 06 Aug 2018 23:05:12 +0000</lastBuildDate>
-    
-	<atom:link href="https://chuckmcandrew.com/categories/lets-encrypt/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 06 Aug 2018 23:05:12 +0000</lastBuildDate><atom:link href="https://chuckmcandrew.com/categories/lets-encrypt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using Let’s Encrypt to secure local services</title>
       <link>https://chuckmcandrew.com/post/2018/08/06/using-lets-encrypt-to-secure-local-services/</link>

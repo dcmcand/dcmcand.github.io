@@ -7,10 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>chuck@chuckmcandrew.com (Chuck McAndrew)</managingEditor>
     <webMaster>chuck@chuckmcandrew.com (Chuck McAndrew)</webMaster>
-    <lastBuildDate>Tue, 19 Jun 2018 15:55:10 -0400</lastBuildDate>
-    
-	<atom:link href="https://chuckmcandrew.com/about/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 19 Jun 2018 15:55:10 -0400</lastBuildDate><atom:link href="https://chuckmcandrew.com/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

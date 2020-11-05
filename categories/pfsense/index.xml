@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>chuck@chuckmcandrew.com (Chuck McAndrew)</managingEditor>
     <webMaster>chuck@chuckmcandrew.com (Chuck McAndrew)</webMaster>
-    <lastBuildDate>Thu, 08 Jun 2017 22:00:10 +0000</lastBuildDate>
-    
-	<atom:link href="https://chuckmcandrew.com/categories/pfsense/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 08 Jun 2017 22:00:10 +0000</lastBuildDate><atom:link href="https://chuckmcandrew.com/categories/pfsense/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Native IPv6 with Comcast Business and pfSense 2.3</title>
       <link>https://chuckmcandrew.com/post/2017/06/08/native-ipv6-with-comcast-business-and-pfsense-2-3/</link>
